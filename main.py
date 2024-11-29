@@ -1,8 +1,8 @@
-import requests #pip install requests
-from bs4 import BeautifulSoup #pip install bs4(used for extracting data from html site)
-import pygame #pip install  pygame(open-source cross-platform library)
-import os # helps to run commands in python script 
-import time# getting current time by passing.
+import requests 
+from bs4 import BeautifulSoup 
+import pygame 
+import os
+import time
 import json
 from colored import fg, attr
 
